@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MusicAI</string>
+    <string name="app_subtitle">Создавайте уникальную музыку с помощью ИИ</string>
+    <string name="describe_music">Опишите вашу музыку</string>
+    <string name="prompt_hint">Например: Энергичная летняя композиция с тропическими битами…</string>
+    <string name="select_genre">Выберите жанр</string>
+    <string name="select_mood">Выберите настроение</string>
+    <string name="generate_button">✨ Создать музыку</string>
+    <string name="creating">🎼 Создаем ваш шедевр…</string>
+    <string name="history">История</string>
+    <string name="your_tracks">Ваши треки</string>
+    <string name="no_tracks">Треков пока нет</string>
+    <string name="create_first">Создайте свой первый трек!</string>
+    <string name="close">Закрыть</string>
+    <string name="download">Скачать</string>
+    <string name="share">Поделиться</string>
+    <string name="favorite">Избранное</string>
+</resources>
